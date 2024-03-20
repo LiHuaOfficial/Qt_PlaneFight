@@ -1,0 +1,19 @@
+#ifndef CONSTVALUE_H
+#define CONSTVALUE_H
+
+#define WINDOW_WIDTH 480
+#define WINDOW_HEIGHT 700
+
+#define PLAYER_WIDTH 100
+#define PLAYER_HEIGHT 100
+
+#define PLAYER_SPEED 10
+
+#define BULLET_SPEED 1
+
+#define ENEMY_SPEED 2
+#define ENEMY_UPDATE_SPEED 2 //per frame
+
+#define DEATH_MOVIE_SPEED 500
+
+#endif // CONSTVALUE_H

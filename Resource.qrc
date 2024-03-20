@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/Sound">
+        <file>Sound/button.wav</file>
+        <file>Sound/enemy1_down.wav</file>
+        <file>Sound/enemy2_down.wav</file>
+        <file>Sound/enemy3_down.wav</file>
+        <file>Sound/enemy3_flying.wav</file>
+        <file>Sound/get_bomb.wav</file>
+        <file>Sound/get_bullet.wav</file>
+        <file>Sound/me_down.wav</file>
+        <file>Sound/supply.wav</file>
+        <file>Sound/upgrade.wav</file>
+        <file>Sound/use_bomb.wav</file>
+        <file>Sound/game_music.wav</file>
+    </qresource>
+    <qresource prefix="/Object">
+        <file>Object/bomb.png</file>
+        <file>Object/bomb_supply.png</file>
+        <file>Object/bullet_supply.png</file>
+        <file>Object/bullet1.png</file>
+        <file>Object/bullet2.png</file>
+        <file>Object/enemy1.png</file>
+        <file>Object/enemy1_down1.png</file>
+        <file>Object/enemy1_down2.png</file>
+        <file>Object/enemy1_down3.png</file>
+        <file>Object/enemy1_down4.png</file>
+        <file>Object/enemy2.png</file>
+        <file>Object/enemy2_down1.png</file>
+        <file>Object/enemy2_down2.png</file>
+        <file>Object/enemy2_down3.png</file>
+        <file>Object/enemy2_down4.png</file>
+        <file>Object/enemy2_hit.png</file>
+        <file>Object/enemy3_down1.png</file>
+        <file>Object/enemy3_down2.png</file>
+        <file>Object/enemy3_down3.png</file>
+        <file>Object/enemy3_down4.png</file>
+        <file>Object/enemy3_down5.png</file>
+        <file>Object/enemy3_down6.png</file>
+        <file>Object/enemy3_hit.png</file>
+        <file>Object/enemy3_n1.png</file>
+        <file>Object/enemy3_n2.png</file>
+        <file>Object/life.png</file>
+        <file>Object/me_destroy_1.png</file>
+        <file>Object/me_destroy_2.png</file>
+        <file>Object/me_destroy_3.png</file>
+        <file>Object/me_destroy_4.png</file>
+        <file>Object/me1.png</file>
+        <file>Object/me2.png</file>
+    </qresource>
+    <qresource prefix="/Scene">
+        <file>Scene/background.png</file>
+        <file>Scene/pause_nor.png</file>
+        <file>Scene/pause_pressed.png</file>
+        <file>Scene/resume_nor.png</file>
+        <file>Scene/resume_pressed.png</file>
+    </qresource>
+    <qresource prefix="/Btn">
+        <file>Btn/again.png</file>
+        <file>Btn/gameover.png</file>
+    </qresource>
+    <qresource prefix="/Movie">
+        <file>Movie/me_explode.gif</file>
+    </qresource>
+</RCC>
